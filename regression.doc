@@ -1,0 +1,38 @@
+{\rtf1\fs24
+\trowd\trgaph75\trleft-75\intbl\trqc\clbrdrt\brdrs\cellx1872\clbrdrt\brdrs\cellx3456
+\ql \cell\qc (1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3456
+\trowd\trgaph75\trleft-75\trqc\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3456
+\ql VARIABLES\cell\qc Model(1)\cell\row
+\trowd\trgaph75\trleft-75\trqc\cellx1872\cellx3456
+\ql \cell\qc \cell\row
+\ql edyrs\cell\qc 0.0499***\cell\row
+\ql \cell\qc (0.0011)\cell\row
+\ql exp\cell\qc 0.0648***\cell\row
+\ql \cell\qc (0.0016)\cell\row
+\ql expsquared\cell\qc -0.0012***\cell\row
+\ql \cell\qc (0.0000)\cell\row
+\ql o.a_age_cr\cell\qc -\cell\row
+\ql \cell\qc \cell\row
+\ql female\cell\qc -0.4835***\cell\row
+\ql \cell\qc (0.0105)\cell\row
+\ql 2.race5\cell\qc 0.0360\cell\row
+\ql \cell\qc (0.0402)\cell\row
+\ql 3.race5\cell\qc -0.1773***\cell\row
+\ql \cell\qc (0.0200)\cell\row
+\ql 4.race5\cell\qc -0.0329\cell\row
+\ql \cell\qc (0.0251)\cell\row
+\ql 5.race5\cell\qc -0.1029**\cell\row
+\ql \cell\qc (0.0419)\cell\row
+\ql ukborn\cell\qc 0.0812***\cell\row
+\ql \cell\qc (0.0170)\cell\row
+\ql Constant\cell\qc 6.1171***\cell\row
+\ql \cell\qc (0.0305)\cell\row
+\ql \cell\qc \cell\row
+\ql Observations\cell\qc 21,276\cell\row
+\trowd\trgaph75\trleft-75\trqc\trbrdrb\brdrs\clbrdrb\brdrs\cellx1872\clbrdrb\brdrs\cellx3456
+\ql R-squared\cell\qc 0.2064\cell\row
+\pard\qc
+Standard errors in parentheses\par
+*** p<0.01, ** p<0.05, * p<0.1\par
+}
